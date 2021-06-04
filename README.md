@@ -1,3 +1,7 @@
+# 此项目已废弃，如果面试官想查看我的新项目
+# 请前往 https://github.com/setusb/Blog_plus
+# 就想找个实习，为啥这么难！！！
+
 # Blog
 个人博客
 
